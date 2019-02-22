@@ -1,18 +1,17 @@
-# myArchLinux
-My archlinux Common configuration
-这个是我的Archliux日常使用的系统及软件配置，以备以后重装系统而用。
+# My Arch Linux Common Configuration.
+### 这是我的Arch Liux日常使用的系统及软件配置，以备以后重装系统而用。
 ## 系统应用篇
-* xfce4 桌面环境    xfce4-session xfce4-power-manager xfce4-settings xfce4-terminal xfce4-timer-plugin xfce4-mixer xfce4-notifyd xfce4-panel xfwm4 ristretto thunar thunar-archive-plugin thunar-media-tags-plugin thunar-volman
-* 登录管理器 lightdm lightdm-gtk-greeter lightdm-gt-greeter-settings
-* 菜单编辑器 alacarte
-* 虚拟机 virtualbox　
-* 字体查看 gnome-font-viewer 
-* 网络管理 connman
-* 网络连接GUI cmst `aur`
+* GUI桌面环境  `xfce4`
+* 登录管理器   `lightdm`
+* 菜单编辑器   `alacarte`
+* 虚拟机       `virtualbox`
+* 字体查看    `gnome-font-viewer`
+* 网络管理    `connman`
+* 网络GUI管理(aur)    `cmst`
 
 ## 常用软件篇
 * 文本编辑    `gvim`             [vim.md](https://github.com/whour/myArchLinux/blob/master/vim.md)
-* 文本编辑    `sublime-text-3-imfix`     [SublimeText3](https://github.com/whour/myArchLinux/tree/master/SublimeText3)
+* 文本编辑(aur)    `sublime-text-3-imfix`     [SublimeText3](https://github.com/whour/myArchLinux/tree/master/SublimeText3)
 * 输入法   `fcitx`
   - 拼音    `libpinyin `
 * 音乐播放器   `audacious` 
