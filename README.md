@@ -17,7 +17,8 @@
 * 音乐播放器   `audacious` 
 * 视频播放器   `vlc`
 * CHM阅读器    `kchmviewer`
-* 办公套件(aur)   `wps`
+* 办公套件(aur)   `wps-office`
+  - WPS字体(aur)   `ttf-wps-fonts`
 * PDF阅读器(aur)    `foxitreader`
 * 有道词典(aur)   `youdao-dict`
 * 计算器   `galculator`  
