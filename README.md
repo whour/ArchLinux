@@ -7,41 +7,38 @@ My archlinux Common configuration
 * 菜单编辑器 alacarte
 * 虚拟机 virtualbox　
 * 字体查看 gnome-font-viewer 
-* fontconfig-infinality     AUR中
-* lib32-fontconfig          multilib中
-* freetype2-infinality      AUR中
-* lib32-freetype2           multilib中
-* lib32-libxft              multilib中
+* 网络管理 connman
+* 网络连接GUI cmst `aur`
+
 ## 常用软件篇
-* gvim 配置文件在            vimrc
-* Sublimetext 3 配置文件在    sublimetext-settings
-* fcitx 配置文件在            fcitx
-* audacious 音乐播放器
-* kchmviewer CHM阅读器
-* vlc 视频播放器
-* wps 办公套件      AUR中wps-office
-* fbreader 阅读软件
-* galculator  计算器
-* youdao-dict 有道词典  AUR中youdao-dict
-* evince PDF阅读器
-* file-roller 解压缩软件
-* thunderbird 邮件客户端
-* remmina 远程桌面　freerdp
-* filezilla FTP客户端
+* 文本编辑    `gvim`             [vim.md](https://github.com/whour/myArchLinux/blob/master/vim.md)
+* 文本编辑    `sublime-text-3-imfix`     [SublimeText3](https://github.com/whour/myArchLinux/tree/master/SublimeText3)
+* 输入法   `fcitx`
+  - 拼音    `libpinyin `
+* 音乐播放器   `audacious` 
+* 视频播放器   `vlc`
+* CHM阅读器    `kchmviewer`
+* 办公套件(aur)   `wps`
+* PDF阅读器(aur)    `foxitreader`
+* 有道词典(aur)   `youdao-dict`
+* 计算器   `galculator`  
+* 解压缩软件   `file-roller`
+* 邮件客户端   `thunderbird`
+* 远程连接    `remmina`
+  - remmina的windows远程桌面依赖   `freerdp`
+  - remmina的vnc依赖   `libvncserver`
+* FTP客户端  filezilla 
 * firefox && chromium
-* flashplugin && chromium-pepper-flash-standalone (AUR)
-* AnyDesk 远程协助
-* Vokoscreen 屏幕录制软件，可直接录制GIF文件(AUR)
-* meld 文件对比软件
-* youdao-dict 有道词典(AUR)
-* datagrip 数据库管理软件(AUR)
-* filezilla FTP软件
-* deluge BT软件
-* wireshark 网络抓包软件
-* redshift 去除电脑蓝光，保护视力
-* fontconfig-infinality 字体一键美化配置(AUR)
-* freetype2-infinality 字体一键美化配置(AUR)
-* cairo-infinality 字体一键美化配置(AUR)
+* flashplugin && pepper-flash
+* 远程协助    `teamviewer`
+* 屏幕截图    `flameshot`
+* 屏幕录制(aur)    `vokoscreen`
+* 文件对比    `meld`
+* 数据库管理(aur)   `datagrip`
+* BT下载    `qbittorrent`
+* 网络抓包    `wireshark `
+* 去蓝光   `redshift`
+
 
 ## 字体篇
 * adobe-source-code-pro-fonts
