@@ -10,8 +10,8 @@
 * 网络GUI管理(aur)    `cmst`
 
 ## 常用软件篇
-* 文本编辑    `gvim`             [vim.md](https://github.com/whour/myArchLinux/blob/master/vim.md)
-* 文本编辑(aur)    `sublime-text-3-imfix`     [SublimeText3](https://github.com/whour/myArchLinux/tree/master/SublimeText3)
+* 文本编辑    `gvim`
+* 文本编辑(aur)    `sublime-text-3-imfix`
 * 输入法   `fcitx`
   - 拼音    `libpinyin `
 * 音乐播放器   `audacious` 
