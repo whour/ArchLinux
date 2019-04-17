@@ -7,7 +7,7 @@
 * 虚拟机       `virtualbox`
 * 字体查看    `gnome-font-viewer`
 * 网络管理    `connman`
-* 网络GUI管理(aur)    `cmst`
+* 网络GUI管理    `cmst`
 
 ## 常用软件篇
 * 文本编辑    `gvim`
@@ -32,11 +32,12 @@
 * flashplugin && pepper-flash
 * 远程协助    `teamviewer`
 * 屏幕截图    `flameshot`
-* 屏幕录制(aur)    `vokoscreen`
+* 屏幕录制    `simplescreenrecorder`
+* GIF录制     `peek`
 * 文件对比    `meld`
 * 数据库管理(aur)   `datagrip`
 * BT下载    `qbittorrent`
-* 网络抓包    `wireshark `
+* 网络抓包    `wireshark-qt`
 * 去蓝光   `redshift`
 
 
