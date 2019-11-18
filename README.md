@@ -3,7 +3,7 @@
 ## 系统应用篇
 * GUI桌面环境  `xfce4`
 * 登录管理器   `lightdm`
-* 菜单编辑器   `alacarte`
+* 菜单编辑器   -`alacarte` `menulibre`
 * 虚拟机       `virtualbox`
 * 字体查看    `gnome-font-viewer`
 * 网络管理    `connman`
