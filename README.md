@@ -21,7 +21,10 @@
   - WPS字体(aur)   `ttf-wps-fonts`
 * PDF阅读器(aur)    `foxitreader`
 * 有道词典(aur)   `youdao-dict`
-* 计算器   `galculator`  
+* 计算器   `galculator`
+* 文件管理器 `thunar`
+  - 文件管理器压缩文件插件 `thunar-archive-plugin`
+* 解压缩软件   `engrampa`
 * 解压缩软件   `file-roller`
 * 邮件客户端   `thunderbird`
 * 远程连接    `remmina`
@@ -30,7 +33,6 @@
 * FTP客户端  filezilla 
 * firefox && chromium
 * flashplugin && pepper-flash
-* 远程协助    `teamviewer`
 * 屏幕截图    `flameshot`
 * 屏幕录制    `simplescreenrecorder`
 * GIF录制     `peek`
